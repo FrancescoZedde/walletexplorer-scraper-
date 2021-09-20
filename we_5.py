@@ -3,6 +3,9 @@
 Created on Thu Sep  2 23:38:20 2021
 
 @author: zedde
+
+This script is made to perform web-scraping of bitcoin addresses collected on walletexplorer.com.
+It has a timer to avoid API limit request.
 """
 
 
